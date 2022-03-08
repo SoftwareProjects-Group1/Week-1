@@ -6,7 +6,7 @@ Employee creation; add, remove, edit. Needs name an position at creation
 
 Password protected application 
 
-Encrypt stored information 
+Encrypt stored information (If online)
 
 Can enter a productive percentage (productive hours worked/ total hours worked) per team member which generates overall productive percentage per team 
 
