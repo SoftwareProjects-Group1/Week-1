@@ -1,6 +1,8 @@
 Functionality 
 
-Team creation; add, remove and move members between teams 
+Team creation; add, remove and move members between teams
+
+Employee creation; add, remove, edit. Needs name an position at creation 
 
 Password protected application 
 
@@ -16,6 +18,4 @@ Ability to add new parameters to track
 
 Tracks engineer and customer satisfaction, track how proud engineers are of their project 
 
-Team members can login and view anonymized comparison data e.g (see they are performing 52% more efficiently than 5 other engineers but not see which engineers) 
-
- 
+Team members can login and view anonymised comparison data e.g (see they are performing 52% more efficiently than 5 other engineers but not see which engineers) 
