@@ -4,7 +4,7 @@
 
 
 ```sh
-This week's learning objectives are as follows:
+This weeks learning objectives are as follows:
 
 to familiarise yourselves with your chosen project and discuss its requirements with your client.
 to be able to create user stories and acceptance tests for your selected project.
